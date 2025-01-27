@@ -1,6 +1,6 @@
-# Proyecto Django con Bootstrap 5
+# Proyecto Django 
 
-Este proyecto proporciona una guía paso a paso para crear una aplicación Django utilizando **Bootstrap 5** para el diseño de interfaces.
+Este proyecto proporciona una guía paso a paso para crear una aplicación Django
 ---
 ## Tabla de Contenidos
 - [Requisitos](#requisitos)
